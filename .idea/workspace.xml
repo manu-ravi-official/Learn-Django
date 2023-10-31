@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82a05222-9418-4307-87ac-8f0087f94825" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/eventwire.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/0/0/00f08931bc9fb02cb8bc0b0fec1d197a87189044" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/0/c/0ccf265bcf57522cb65746b9e6ead02e56f075cd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/0/f/0ffe05a21a7ddbaa80acb7370b8daac8ceb301f1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/1/3/135827c52d243ebafb3cb690ffa85d914c0cd7ef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/1/9/19359a61ae2446b51b549167b014da2fcf265768" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/1/c/1c5bf71a62d55f2bc2ce5fc972eff7b304fb290e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/2/6/26f33be18d67dd817c0e1f449d2024ba54d893d6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/2/8/28cd3ac28ed38fc642a85656cf7bb594d8422696" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/3/1/3156ad13e4d695cd526bbb7b031016ecba842270" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/3/4/341480d88d122931dccb06a66516b26863128770" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/3/9/39ebb90e028f2b2738b3fc857b285ccf3715fc25" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/4/4/4434cd51b2dd852a4bf47129aea2eff1d11b53a5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/6/1/610fcd51c843dd081762cc0817ca635e78da6a30" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/6/c/6cc87d1b84927fbc9f9bec7b5b89be299eeda748" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/6/e/6ecb99efc206f708006877822fd8c6ed1fb1144b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/7/5/759e97b716f902b275aab5a15e95a65f2d40e547" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/7/7/775d4c643705c282d2577983909fd14a334f39b4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/7/9/795605c40ae4db72fbf9886a87b9bc259733b426" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/8/0/80d467496fa03c970c1e2b5cc7483b08fa0ab7ae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/8/2/8208c75d0d4cc44364e0f4c1b395b605095474c2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/8/6/860712ac3d0587acf445231087a6a9957b0ba9c9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/8/6/862d6b6351f690858f44e6659a0da22f8bfae2d3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/8/a/8a8d5598eec58ca82c500fd2ef9dd4c95cc9ef85" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/8/c/8cbca1644def4ed81fb5069de31c1ca9ef294db1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/9/0/9048d56be5e0e7f502626cb4b2590fdbb8f10ff3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/9/0/907ac5e500f6286c18519bf943721af4c97e50d5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/9/4/9499c04e55baaacb3a3c4d91c7ed120943350868" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/a/7/a7ec2085b70f5e1e614ceacf02503837e1e209e8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/a/9/a9e13df1309c89feebb383eaef4dbe262dbcfdcd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/b/2/b2be7c66eae98e6f8f309db46d1cf08e2c7361c2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/b/5/b5681220d5d814e7d385629f58dc1abbdaa4a7aa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/b/6/b6f4d41011c73a7035a165790263e376f70b531a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/b/d/bd2a8d651ad074aa79da0313ed6be08818401326" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/c/c/ccf77472fd77c786daf5ba66af3a2be07a2e0057" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/d/4/d47ec7c99f949a129004e8fdea1113b1b3605d69" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/d/5/d5eb212cd09af39512a902f3aab335239c194486" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/e/5/e56591893c4fc7eabc5ed6fe1fa9f7251ca25a33" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/e/5/e573c05cae0ad75a79dd06fce840cab068afea31" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/e/7/e70adb7e12e301d2c83b909558c466d91b161fff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/e/e/ee5964ec2f5d4bce3e2904326145b85cd867fa56" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/f/7/f715eec42cf6d613bb95be72c53c1232e7c73fc1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/f/7/f75e385cad0bb031d2e67452e4fc05e156dd0bdc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/0/0/00f08931bc9fb02cb8bc0b0fec1d197a87189044" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/0/c/0ccf265bcf57522cb65746b9e6ead02e56f075cd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/0/f/0ffe05a21a7ddbaa80acb7370b8daac8ceb301f1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/1/3/135827c52d243ebafb3cb690ffa85d914c0cd7ef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/1/9/19359a61ae2446b51b549167b014da2fcf265768" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/1/c/1c5bf71a62d55f2bc2ce5fc972eff7b304fb290e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/2/6/26f33be18d67dd817c0e1f449d2024ba54d893d6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/2/8/28cd3ac28ed38fc642a85656cf7bb594d8422696" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/3/1/3156ad13e4d695cd526bbb7b031016ecba842270" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/3/4/341480d88d122931dccb06a66516b26863128770" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/3/9/39ebb90e028f2b2738b3fc857b285ccf3715fc25" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/4/4/4434cd51b2dd852a4bf47129aea2eff1d11b53a5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/6/1/610fcd51c843dd081762cc0817ca635e78da6a30" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/6/c/6cc87d1b84927fbc9f9bec7b5b89be299eeda748" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/6/e/6ecb99efc206f708006877822fd8c6ed1fb1144b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/7/5/759e97b716f902b275aab5a15e95a65f2d40e547" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/7/7/775d4c643705c282d2577983909fd14a334f39b4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/7/9/795605c40ae4db72fbf9886a87b9bc259733b426" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/8/0/80d467496fa03c970c1e2b5cc7483b08fa0ab7ae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/8/2/8208c75d0d4cc44364e0f4c1b395b605095474c2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/8/6/860712ac3d0587acf445231087a6a9957b0ba9c9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/8/6/862d6b6351f690858f44e6659a0da22f8bfae2d3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/8/a/8a8d5598eec58ca82c500fd2ef9dd4c95cc9ef85" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/8/c/8cbca1644def4ed81fb5069de31c1ca9ef294db1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/9/0/9048d56be5e0e7f502626cb4b2590fdbb8f10ff3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/9/0/907ac5e500f6286c18519bf943721af4c97e50d5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/9/4/9499c04e55baaacb3a3c4d91c7ed120943350868" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/a/7/a7ec2085b70f5e1e614ceacf02503837e1e209e8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/a/9/a9e13df1309c89feebb383eaef4dbe262dbcfdcd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/b/2/b2be7c66eae98e6f8f309db46d1cf08e2c7361c2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/b/5/b5681220d5d814e7d385629f58dc1abbdaa4a7aa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/b/6/b6f4d41011c73a7035a165790263e376f70b531a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/b/d/bd2a8d651ad074aa79da0313ed6be08818401326" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/c/c/ccf77472fd77c786daf5ba66af3a2be07a2e0057" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/d/4/d47ec7c99f949a129004e8fdea1113b1b3605d69" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/d/5/d5eb212cd09af39512a902f3aab335239c194486" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/e/5/e56591893c4fc7eabc5ed6fe1fa9f7251ca25a33" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/e/5/e573c05cae0ad75a79dd06fce840cab068afea31" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/e/7/e70adb7e12e301d2c83b909558c466d91b161fff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/e/e/ee5964ec2f5d4bce3e2904326145b85cd867fa56" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/f/7/f715eec42cf6d613bb95be72c53c1232e7c73fc1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/f/7/f75e385cad0bb031d2e67452e4fc05e156dd0bdc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/Learn-Django" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/authentication/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/authentication/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/authentication/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/authentication/management/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/authentication/management/commands/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/authentication/management/commands/setup_roles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/authentication/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/authentication/migrations/0002_alter_customuser_groups_and_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/authentication/migrations/0003_alter_customuser_password.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/authentication/migrations/0004_alter_customuser_age.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/authentication/migrations/0005_alter_customuser_email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/authentication/migrations/0006_customuser_is_staff_alter_customuser_email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/authentication/migrations/0007_customuser_role.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/authentication/migrations/0008_alter_customuser_role.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/authentication/migrations/0009_remove_customuser_role.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/authentication/migrations/0010_customuser_role.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/authentication/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/authentication/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/authentication/roles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/authentication/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/authentication/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/authentication/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/authentication/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/eventwire/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/eventwire/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/eventwire/error_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/eventwire/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/eventwire/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/eventwire/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/myapi/CustomPagination.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/myapi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/myapi/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/myapi/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/myapi/exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/myapi/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/myapi/migrations/0002_rename_events_event.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/myapi/migrations/0003_event_description.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/myapi/migrations/0004_remove_event_description.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/myapi/migrations/0005_alter_event_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/myapi/migrations/0006_alter_event_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/myapi/migrations/0007_alter_event_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/myapi/migrations/0008_alter_event_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/myapi/migrations/0009_alter_event_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/myapi/migrations/0010_alter_event_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/myapi/migrations/0011_event_age.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/myapi/migrations/0012_remove_event_age.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/myapi/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/myapi/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/myapi/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/myapi/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/myapi/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventwire/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/eventwire" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2WbZHHyZE7XwMU8NULAhgtkKG6q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/manu.ravi/Learn Django&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/eventwire/eventwire" />
+      <recent name="$PROJECT_DIR$/eventwire/authentication" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/eventwire/authentication/management/commands" />
+      <recent name="$PROJECT_DIR$/eventwire" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learn Django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/eventwire/myapi" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/eventwire/myapi/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82a05222-9418-4307-87ac-8f0087f94825" name="Changes" comment="" />
+      <created>1697003152681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697003152681</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/eventwire/authentication/urls.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
